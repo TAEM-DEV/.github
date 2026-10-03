@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="taem-banner.svg" alt="TAEM Kernel" width="900"/>
+  <img src="profile/taem-banner.svg" alt="TAEM Kernel" width="900"/>
 </p>
 
 # taem

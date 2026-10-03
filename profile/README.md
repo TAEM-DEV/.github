@@ -108,6 +108,11 @@ missions/{mission_id}/
 
 `git log` is the complete mission history. No external databases.
 
+### Also in the org
+
+- [`missions`](https://github.com/TAEM-DEV/missions): reports from real preflight missions, with each review's Go / No-Go verdict.
+- [`refexplorer`](https://github.com/TAEM-DEV/refexplorer): a co-citation graph explorer that feeds research papers into the `domain_knowledge` collection.
+
 ---
 
 ## The 15 Controllers
